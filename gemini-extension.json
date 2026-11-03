@@ -1,0 +1,11 @@
+{
+  "name": "alphayou",
+  "version": "0.3.4",
+  "description": "Insider trades, Congress, 13F funds and Hyperliquid top traders, with a source link and date on every answer.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "alphayou": {
+      "httpUrl": "https://alphayou.net/api/mcp/market?utm_source=claude"
+    }
+  }
+}
