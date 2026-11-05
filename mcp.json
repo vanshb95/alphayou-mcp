@@ -1,7 +1,9 @@
 {
   "mcpServers": {
     "alphayou": {
-      "url": "https://alphayou.net/api/mcp/market?utm_source=claude"
+      "type": "streamable-http",
+      "url": "https://alphayou.net/api/mcp/market"
     }
-  }
+  },
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json"
 }

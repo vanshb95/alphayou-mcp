@@ -1,0 +1,13 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "alphayou",
+  "version": "0.3.5",
+  "description": "Read-only US stock filings, smart money and Hyperliquid trader research with source links and dates.",
+  "author": {
+    "name": "AlphaYou",
+    "email": "info@alphayou.net"
+  },
+  "homepage": "https://alphayou.net/connectors?utm_source=outreach&utm_medium=outreach&utm_campaign=api-mcp-directories-nov05&utm_content=portable-bundle",
+  "repository": "https://github.com/vanshb95/alphayou-mcp",
+  "license": "MIT"
+}
