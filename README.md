@@ -46,6 +46,10 @@ The public research connector above needs no key. The separate [AlphaYou API](ht
 
 API billing is separate from consumer subscriptions. The keyed catalog differs from the public connector; it currently excludes Congress. Neither surface executes trades.
 
+## Evaluate
+
+Run the [connection and permission checks](EVALUATION.md) before building on the feed. The guide states what passed and what remains unverified.
+
 ## How it answers
 
 Missing data is reported as unknown, never as zero. A sale is a sale, not a short. Fund rows are quarter-end changes, not live trades. Stock-linked perpetuals are derivatives, not shares. Answers are the same for every user: no personal advice, sizing or buy and sell calls.
